@@ -1,0 +1,77 @@
+domaine teste = admin-sante.fr
+Expiry Date: 2023-09-09T08:40:36Z
+created:     2022-09-09T08:40:36Z
+e-mail:      annabelle.cammal@gmail.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site admin-sante.fr n'est pas fonctionnel
+domaine teste = ameli--assure.fr
+Expiry Date: 2023-09-09T13:53:10Z
+created:     2022-09-09T13:53:10Z
+e-mail:      amelkobo@proton.me
+e-mail:      sales@openprovider.com
+registrar:   HOSTING CONCEPTS B.V.
+le site ameli--assure.fr est fonctionnel
+domaine teste = ameliecpam.fr
+Expiry Date: 2023-09-09T12:32:21Z
+created:     2022-09-09T12:32:21Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ameliecpam.fr est fonctionnel
+domaine teste = espaceformulaire-ameli.fr
+Expiry Date: 2023-09-09T05:42:07Z
+created:     2022-09-09T05:42:07Z
+e-mail:      info@key-systems.net
+e-mail:      reidreidnewmail4@gmail.com
+registrar:   KEY-SYSTEMS GmbH
+le site espaceformulaire-ameli.fr n'est pas fonctionnel
+domaine teste = formulairesante.fr
+Expiry Date: 2023-09-09T14:20:29Z
+created:     2022-09-09T14:20:29Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site formulairesante.fr est fonctionnel
+domaine teste = info-couverture-vitale.fr
+Expiry Date: 2023-09-09T20:02:14Z
+created:     2022-09-09T20:02:14Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site info-couverture-vitale.fr est fonctionnel
+domaine teste = mon-espace-cartevital.fr
+Expiry Date: 2023-09-09T00:41:07Z
+created:     2022-09-09T00:41:07Z
+e-mail:      afnic@lws.fr
+e-mail:      domaine@lws.fr
+registrar:   SAS Ligne Web Services - LWS
+le site mon-espace-cartevital.fr est fonctionnel
+domaine teste = renouvellement-cartevitale.fr
+Expiry Date: 2023-09-09T14:30:50Z
+created:     2022-09-09T14:30:50Z
+e-mail:      julien.interactivecenter.net@gmail.com
+e-mail:      sales@openprovider.com
+registrar:   HOSTING CONCEPTS B.V.
+le site renouvellement-cartevitale.fr est fonctionnel
+domaine teste = renouv-macartevitale.fr
+Expiry Date: 2023-09-09T11:08:20Z
+created:     2022-09-09T11:08:20Z
+e-mail:      moussadiallo7591@gmail.com
+e-mail:      raradmin@uniregistry.com
+e-mail:      rartech@uniregistry.com
+registrar:   Uniregistrar Corp
+le site renouv-macartevitale.fr est fonctionnel
+domaine teste = xn--sant-vitale-sms-enb.fr
+Expiry Date: 2023-09-09T20:49:09Z
+created:     2022-09-09T20:49:09Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      ean.wells95@gmail.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site xn--sant-vitale-sms-enb.fr est fonctionnel
+domaine teste = securitevitale.fr
+Expiry Date: 2023-09-09T21:13:23Z
+created:     2022-09-09T21:13:23Z
+e-mail:      hostmaster@1and1.fr
+e-mail:      hostmaster@1und1.de
+registrar:   IONOS SE
+le site securitevitale.fr est fonctionnel

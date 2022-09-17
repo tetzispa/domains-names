@@ -1,0 +1,98 @@
+domaine teste = accountameli.fr
+Expiry Date: 2023-09-12T17:16:00Z
+created:     2022-09-12T17:16:00Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site accountameli.fr n'est pas fonctionnel
+domaine teste = amelicpam.fr
+Expiry Date: 2023-09-12T11:57:50Z
+created:     2022-09-12T11:57:50Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site amelicpam.fr est fonctionnel
+domaine teste = xn--amel-tpa.fr
+Expiry Date: 2023-09-11T23:33:27Z
+created:     2022-09-11T23:33:27Z
+e-mail:      pierrelory1942@icloud.com
+e-mail:      sales@openprovider.com
+registrar:   HOSTING CONCEPTS B.V.
+le site xn--amel-tpa.fr n'est pas fonctionnel
+domaine teste = ameli-portailsupport.fr
+Expiry Date: 2023-09-12T19:25:20Z
+created:     2022-09-12T19:25:20Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ameli-portailsupport.fr est fonctionnel
+domaine teste = ameli-service-client.fr
+Expiry Date: 2023-09-12T14:15:58Z
+created:     2022-09-12T14:15:58Z
+e-mail:      raradmin@uniregistry.com
+e-mail:      rartech@uniregistry.com
+e-mail:      tintin59555@gmail.com
+registrar:   Uniregistrar Corp
+le site ameli-service-client.fr est fonctionnel
+domaine teste = assurancesmaladiesecurise.fr
+Expiry Date: 2023-09-12T16:09:44Z
+created:     2022-09-12T16:09:44Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site assurancesmaladiesecurise.fr est fonctionnel
+domaine teste = assurvitale.fr
+Expiry Date: 2023-09-12T09:34:13Z
+created:     2022-09-12T09:34:13Z
+e-mail:      info@1api.net
+e-mail:      sapetjo45@gmail.com
+nserver:     dns1.registrar-servers.com
+nserver:     dns2.registrar-servers.com
+registrar:   1API GmbH
+le site assurvitale.fr est fonctionnel
+domaine teste = info-clientcpam.fr
+Expiry Date: 2023-09-12T17:19:24Z
+created:     2022-09-12T17:19:24Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site info-clientcpam.fr n'est pas fonctionnel
+domaine teste = info-cpam-ameli.fr
+Expiry Date: 2023-09-12T08:53:35Z
+created:     2022-09-12T08:53:35Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site info-cpam-ameli.fr est fonctionnel
+domaine teste = infomacartevitale.fr
+Expiry Date: 2023-09-12T01:59:25Z
+created:     2022-09-12T01:59:25Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site infomacartevitale.fr est fonctionnel
+domaine teste = infosmacartevitale.fr
+Expiry Date: 2023-09-12T04:21:13Z
+created:     2022-09-12T04:21:13Z
+e-mail:      info@key-systems.net
+e-mail:      patrickviera83@gmail.com
+registrar:   KEY-SYSTEMS GmbH
+le site infosmacartevitale.fr est fonctionnel
+domaine teste = monespaceclient-vitale.fr
+Expiry Date: 2023-09-12T11:06:59Z
+created:     2022-09-12T11:06:59Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+e-mail:      rabakes962@pelung.com
+registrar:   KEY-SYSTEMS GmbH
+le site monespaceclient-vitale.fr est fonctionnel
+domaine teste = santeplubliquefrance.fr
+Expiry Date: 2024-09-11T22:31:50Z
+created:     2022-09-11T22:31:50Z
+e-mail:      arezdydy@gmail.com
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site santeplubliquefrance.fr est fonctionnel
+domaine teste = service-assurance-maladie.fr
+Expiry Date: 2023-09-12T17:07:06Z
+created:     2022-09-12T17:07:06Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site service-assurance-maladie.fr est fonctionnel

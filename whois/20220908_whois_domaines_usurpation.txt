@@ -1,0 +1,118 @@
+domaine teste = ameli-actualisation-maladie.fr
+Expiry Date: 2023-09-08T15:07:09Z
+created:     2022-09-08T15:07:09Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ameli-actualisation-maladie.fr est fonctionnel
+domaine teste = ameliclients.fr
+Expiry Date: 2023-09-08T19:58:42Z
+created:     2022-09-08T19:58:42Z
+e-mail:      dsc.alt@protonmail.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ameliclients.fr est fonctionnel
+domaine teste = ameli-enregistrement.fr
+Expiry Date: 2023-09-08T10:33:15Z
+created:     2022-09-08T10:33:15Z
+e-mail:      info@key-systems.net
+e-mail:      maximenito@gmail.com
+registrar:   KEY-SYSTEMS GmbH
+le site ameli-enregistrement.fr n'est pas fonctionnel
+domaine teste = ameli-redirection.fr
+Expiry Date: 2023-09-08T04:04:10Z
+created:     2022-09-08T04:04:10Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ameli-redirection.fr est fonctionnel
+domaine teste = ameli-renouvellements.fr
+Expiry Date: 2023-09-08T03:37:11Z
+created:     2022-09-08T03:37:11Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ameli-renouvellements.fr n'est pas fonctionnel
+domaine teste = ameli-servicerenouvellement.fr
+Expiry Date: 2023-09-08T09:27:48Z
+created:     2022-09-08T09:27:48Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ameli-servicerenouvellement.fr est fonctionnel
+domaine teste = ameli-vitalecarte.fr
+Expiry Date: 2023-09-08T11:52:59Z
+created:     2022-09-08T11:52:59Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ameli-vitalecarte.fr est fonctionnel
+domaine teste = app-ameli.fr
+Expiry Date: 2023-09-08T00:13:40Z
+created:     2022-09-08T00:13:40Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site app-ameli.fr est fonctionnel
+domaine teste = assure3-ameli.fr
+Expiry Date: 2023-09-08T09:27:00Z
+created:     2022-09-08T09:27:00Z
+e-mail:      aqaredn.e@gmail.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site assure3-ameli.fr n'est pas fonctionnel
+domaine teste = espace-ameli.fr
+Expiry Date: 2023-09-07T22:13:57Z
+created:     2022-09-07T22:13:57Z
+e-mail:      contact@domainmask.co.uk
+e-mail:      marco.hoffmann@internetx.com
+registrar:   InterNetX GmbH
+le site espace-ameli.fr n'est pas fonctionnel
+domaine teste = espace-cartevitale.fr
+Expiry Date: 2023-09-08T09:18:00Z
+created:     2022-09-08T09:18:00Z
+e-mail:      berger.steeven@icloud.com
+e-mail:      raradmin@uniregistry.com
+e-mail:      rartech@uniregistry.com
+registrar:   Uniregistrar Corp
+le site espace-cartevitale.fr est fonctionnel
+domaine teste = expiration-vitale.fr
+Expiry Date: 2023-09-08T14:13:58Z
+created:     2022-09-08T14:13:58Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site expiration-vitale.fr est fonctionnel
+domaine teste = infosante-espacevitale.fr
+Expiry Date: 2023-09-08T21:04:12Z
+created:     2022-09-08T21:04:12Z
+e-mail:      antoinerez@yandex.com
+e-mail:      sales@openprovider.com
+registrar:   HOSTING CONCEPTS B.V.
+le site infosante-espacevitale.fr est fonctionnel
+domaine teste = infosecu-vitale.fr
+Expiry Date: 2023-09-08T09:48:08Z
+created:     2022-09-08T09:48:08Z
+e-mail:      antoinerez@yandex.com
+e-mail:      sales@openprovider.com
+registrar:   HOSTING CONCEPTS B.V.
+le site infosecu-vitale.fr n'est pas fonctionnel
+domaine teste = ma-carte-cpam.fr
+Expiry Date: 2023-09-08T19:12:06Z
+created:     2022-09-08T19:12:06Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ma-carte-cpam.fr est fonctionnel
+domaine teste = macartesante-vitale.fr
+Expiry Date: 2023-09-07T22:32:03Z
+created:     2022-09-07T22:32:03Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site macartesante-vitale.fr est fonctionnel
+domaine teste = monespaceassuvitale.fr
+Expiry Date: 2023-09-08T08:38:25Z
+created:     2022-09-08T08:38:25Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site monespaceassuvitale.fr est fonctionnel
+domaine teste = xn--sant-vital-e7a.fr
+Expiry Date: 2023-09-08T01:56:22Z
+created:     2022-09-08T01:56:22Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site xn--sant-vital-e7a.fr est fonctionnel

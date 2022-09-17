@@ -1,0 +1,94 @@
+domaine teste = accueil-ameli.fr
+Expiry Date: 2023-09-10T19:22:33Z
+created:     2022-09-10T19:22:33Z
+e-mail:      delahaieloic04@gmail.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site accueil-ameli.fr est fonctionnel
+domaine teste = ameli-contact.fr
+Expiry Date: 2023-09-10T00:52:52Z
+created:     2022-09-10T00:52:52Z
+e-mail:      electra@nospam.today
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ameli-contact.fr est fonctionnel
+domaine teste = ameli-procedure.fr
+Expiry Date: 2023-09-09T23:33:38Z
+created:     2022-09-09T23:33:38Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ameli-procedure.fr est fonctionnel
+domaine teste = amelisecure-france.fr
+Expiry Date: 2023-09-10T16:39:22Z
+created:     2022-09-10T16:39:22Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site amelisecure-france.fr est fonctionnel
+domaine teste = assistance-maladie.fr
+Expiry Date: 2023-09-10T20:29:44Z
+created:     2022-09-10T20:29:44Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site assistance-maladie.fr est fonctionnel
+domaine teste = cartesante-vital.fr
+Expiry Date: 2023-09-10T18:14:48Z
+created:     2022-09-10T18:14:48Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site cartesante-vital.fr n'est pas fonctionnel
+domaine teste = cpam-carte-vitale.fr
+Expiry Date: 2023-09-10T10:19:53Z
+created:     2022-09-10T10:19:53Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site cpam-carte-vitale.fr est fonctionnel
+domaine teste = cpam-contact.fr
+Expiry Date: 2023-09-10T15:30:15Z
+created:     2022-09-10T15:30:15Z
+e-mail:      electra@nospam.today
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site cpam-contact.fr est fonctionnel
+domaine teste = espaceameli-vitale.fr
+Expiry Date: 2023-09-10T08:07:31Z
+created:     2022-09-10T08:07:31Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site espaceameli-vitale.fr est fonctionnel
+domaine teste = inc-ameli.fr
+Expiry Date: 2023-09-10T16:20:34Z
+created:     2022-09-10T16:20:34Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site inc-ameli.fr est fonctionnel
+domaine teste = infovitale-sante.fr
+Expiry Date: 2023-09-10T14:37:24Z
+created:     2022-09-10T14:37:24Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site infovitale-sante.fr est fonctionnel
+domaine teste = lanouvellecartevitale.fr
+Expiry Date: 2023-09-10T08:07:34Z
+created:     2022-09-10T08:07:34Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site lanouvellecartevitale.fr n'est pas fonctionnel
+domaine teste = mon-espaceameli.fr
+Expiry Date: 2023-09-10T08:07:42Z
+created:     2022-09-10T08:07:42Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site mon-espaceameli.fr est fonctionnel
+domaine teste = renouvellement-assurancemaladie.fr
+Expiry Date: 2023-09-09T23:53:45Z
+created:     2022-09-09T23:53:45Z
+e-mail:      info@1api.net
+e-mail:      jordosb45@outlook.com
+nserver:     dns1.registrar-servers.com
+nserver:     dns2.registrar-servers.com
+registrar:   1API GmbH
+le site renouvellement-assurancemaladie.fr est fonctionnel

@@ -1,0 +1,57 @@
+domaine teste = ameli-carte-v3.fr
+Expiry Date: 2023-09-03T15:38:50Z
+created:     2022-09-03T15:38:50Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ameli-carte-v3.fr n'est pas fonctionnel
+domaine teste = ameli-contacts.fr
+Expiry Date: 2023-09-03T13:14:52Z
+created:     2022-09-03T13:14:52Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ameli-contacts.fr est fonctionnel
+domaine teste = ameli-demarche.fr
+Expiry Date: 2023-09-03T17:53:41Z
+created:     2022-09-03T17:53:41Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ameli-demarche.fr n'est pas fonctionnel
+domaine teste = ameli-sante-service.fr
+Expiry Date: 2023-09-02T22:02:38Z
+created:     2022-09-02T22:02:38Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ameli-sante-service.fr est fonctionnel
+domaine teste = assurancemalade.fr
+Expiry Date: 2023-09-03T20:37:23Z
+created:     2022-09-03T20:37:23Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site assurancemalade.fr est fonctionnel
+domaine teste = assure-espace-cartevitale.fr
+Expiry Date: 2023-09-03T00:47:04Z
+created:     2022-09-03T00:47:04Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site assure-espace-cartevitale.fr est fonctionnel
+domaine teste = contact-vitale.fr
+Expiry Date: 2023-09-03T17:20:22Z
+created:     2022-09-03T17:20:22Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site contact-vitale.fr est fonctionnel
+domaine teste = ma-carte-sante.fr
+Expiry Date: 2023-09-03T09:57:14Z
+created:     2022-09-03T09:57:14Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ma-carte-sante.fr n'est pas fonctionnel
+domaine teste = support-cartevitale.fr
+Expiry Date: 2023-09-03T15:28:10Z
+created:     2022-09-03T15:28:10Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site support-cartevitale.fr n'est pas fonctionnel

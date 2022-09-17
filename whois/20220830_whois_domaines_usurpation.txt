@@ -1,0 +1,73 @@
+domaine teste = ameli-confidentialite.fr
+Expiry Date: 2023-08-30T18:06:01Z
+created:     2022-08-30T18:06:01Z
+e-mail:      abuse@tldregistrarsolutions.com
+e-mail:      admin@tldregistrarsolutions.com
+registrar:   TLD Registrar Solutions Ltd
+le site ameli-confidentialite.fr est fonctionnel
+domaine teste = ameli-cpam-renouv.fr
+Expiry Date: 2023-08-30T15:30:54Z
+created:     2022-08-30T15:30:54Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+e-mail:      neversaynoww@gmail.com
+registrar:   KEY-SYSTEMS GmbH
+le site ameli-cpam-renouv.fr est fonctionnel
+domaine teste = ameli-infos-services.fr
+Expiry Date: 2023-08-30T19:50:40Z
+created:     2022-08-30T19:50:40Z
+e-mail:      feuillesimon@gmx.fr
+e-mail:      sales@openprovider.com
+registrar:   HOSTING CONCEPTS B.V.
+le site ameli-infos-services.fr est fonctionnel
+domaine teste = amelioremondpe.fr
+Expiry Date: 2023-08-30T14:07:05Z
+created:     2022-08-30T14:07:05Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site amelioremondpe.fr n'est pas fonctionnel
+domaine teste = amelisecuinfo.fr
+Expiry Date: 2023-08-30T16:47:18Z
+created:     2022-08-30T16:47:18Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site amelisecuinfo.fr est fonctionnel
+domaine teste = ameli-securisation-compte.fr
+Expiry Date: 2023-08-30T11:29:27Z
+created:     2022-08-30T11:29:27Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site ameli-securisation-compte.fr est fonctionnel
+domaine teste = amelis-secure.fr
+Expiry Date: 2023-08-30T19:08:36Z
+created:     2022-08-30T19:08:36Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site amelis-secure.fr est fonctionnel
+domaine teste = infossantevitale.fr
+Expiry Date: 2023-08-30T11:22:10Z
+created:     2022-08-30T11:22:10Z
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site infossantevitale.fr est fonctionnel
+domaine teste = sante-amelie.fr
+Expiry Date: 2023-08-30T00:04:46Z
+created:     2022-08-30T00:04:46Z
+e-mail:      JhonCenr@proton.me
+e-mail:      info@1api.net
+registrar:   1API GmbH
+le site sante-amelie.fr n'est pas fonctionnel
+domaine teste = vital-cpam.fr
+Expiry Date: 2023-08-30T00:48:18Z
+created:     2022-08-30T00:48:18Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site vital-cpam.fr est fonctionnel
+domaine teste = vitale-cpamgouv.fr
+Expiry Date: 2023-08-30T01:50:19Z
+created:     2022-08-30T01:50:19Z
+e-mail:      cctldprocessing@godaddy.com
+e-mail:      info@key-systems.net
+registrar:   KEY-SYSTEMS GmbH
+le site vitale-cpamgouv.fr est fonctionnel
